@@ -1,0 +1,1 @@
+﻿token = '6155085394:AAGHzcmuJZ7GUd23ctw7YWzPdwvNtKcXmPg' # Впишите, между одинарными кавычками токен!
